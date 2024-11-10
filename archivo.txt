@@ -1,1 +1,3 @@
 generando conflicto2.0
+Contenido de archivo modificado
+agregando mas modificcaiones
